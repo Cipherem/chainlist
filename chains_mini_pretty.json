@@ -9381,7 +9381,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://rpc.n3.nahmii.io"],
   "faucets": [],
   "infoURL": "https://nahmii.io"
 }, {
@@ -9390,11 +9390,11 @@
   "shortName": "Nahmii3Testnet",
   "networkId": 4062,
   "nativeCurrency": {
-    "name": "Goerli Ether",
+    "name": "Sepolia Ether",
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://ngeth.testnet.n3.nahmii.io"],
+  "rpc": ["https://rpc.testnet.nahmii.io"],
   "faucets": [],
   "infoURL": "https://nahmii.io"
 }, {
@@ -10165,7 +10165,7 @@
   "faucets": ["https://t.me/vexfaucetbot"],
   "infoURL": "https://vexanium.com"
 }, {
-  "name": "Nahmii Mainnet",
+  "name": "Nahmii 2 Mainnet",
   "chainId": 5551,
   "shortName": "Nahmii",
   "networkId": 5551,
@@ -10178,7 +10178,7 @@
   "faucets": [],
   "infoURL": "https://nahmii.io"
 }, {
-  "name": "Nahmii Testnet",
+  "name": "Nahmii 2 Testnet",
   "chainId": 5553,
   "shortName": "NahmiiTestnet",
   "networkId": 5553,
@@ -10475,6 +10475,19 @@
   },
   "rpc": ["https://jsonrpc.euphoria.aura.network"],
   "faucets": ["https://aura.faucetme.pro"],
+  "infoURL": "https://aura.network"
+}, {
+  "name": "Aura Mainnet",
+  "chainId": 6322,
+  "shortName": "aura",
+  "networkId": 6322,
+  "nativeCurrency": {
+    "name": "Aura",
+    "symbol": "AURA",
+    "decimals": 18
+  },
+  "rpc": ["https://jsonrpc.aura.network"],
+  "faucets": [],
   "infoURL": "https://aura.network"
 }, {
   "name": "Digit Soul Smart Chain",
@@ -12465,6 +12478,32 @@
   "rpc": ["http://node106.cryptocoinpay.info:8545", "ws://node106.cryptocoinpay.info:8546"],
   "faucets": [],
   "infoURL": "https://www.cryptocoinpay.co"
+}, {
+  "name": "Lamina1",
+  "chainId": 10849,
+  "shortName": "lamina1",
+  "networkId": 10849,
+  "nativeCurrency": {
+    "name": "L1",
+    "symbol": "L1",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/lamina1/mainnet/rpc"],
+  "faucets": [],
+  "infoURL": "https://www.lamina1.com/"
+}, {
+  "name": "Lamina1 Identity",
+  "chainId": 10850,
+  "shortName": "lamina1id",
+  "networkId": 10850,
+  "nativeCurrency": {
+    "name": "L1 ID",
+    "symbol": "L1ID",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/lamina1id/mainnet/rpc"],
+  "faucets": [],
+  "infoURL": "https://www.lamina1.com/"
 }, {
   "name": "Quadrans Blockchain",
   "chainId": 10946,
@@ -18472,6 +18511,32 @@
   "faucets": [],
   "infoURL": "https://miexs.com"
 }, {
+  "name": "Lamina1 Testnet",
+  "chainId": 764984,
+  "shortName": "lamina1test",
+  "networkId": 764984,
+  "nativeCurrency": {
+    "name": "Lamina1 Test",
+    "symbol": "L1T",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/lamina1tes/testnet/rpc"],
+  "faucets": [],
+  "infoURL": "https://fuji.lamina1.com/"
+}, {
+  "name": "Lamina1 Identity Testnet",
+  "chainId": 767368,
+  "shortName": "lamina1idtest",
+  "networkId": 767368,
+  "nativeCurrency": {
+    "name": "L1ID Test",
+    "symbol": "L1IDT",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/lamina1id/testnet/rpc"],
+  "faucets": [],
+  "infoURL": "https://fuji.lamina1.com/"
+}, {
   "name": "Modularium",
   "chainId": 776877,
   "shortName": "mdlrm",
@@ -18744,6 +18809,32 @@
   "rpc": ["https://host-76-74-28-226.contentfabric.io/eth/", "https://host-76-74-28-232.contentfabric.io/eth/", "https://host-76-74-29-2.contentfabric.io/eth/", "https://host-76-74-29-8.contentfabric.io/eth/", "https://host-76-74-29-34.contentfabric.io/eth/", "https://host-76-74-29-35.contentfabric.io/eth/", "https://host-154-14-211-98.contentfabric.io/eth/", "https://host-154-14-192-66.contentfabric.io/eth/", "https://host-60-240-133-202.contentfabric.io/eth/", "https://host-64-235-250-98.contentfabric.io/eth/"],
   "faucets": [],
   "infoURL": "https://eluv.io"
+}, {
+  "name": "Forma",
+  "chainId": 984122,
+  "shortName": "forma",
+  "networkId": 984122,
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.forma.art"],
+  "faucets": [],
+  "infoURL": "https://forma.art"
+}, {
+  "name": "Forma Sketchpad",
+  "chainId": 984123,
+  "shortName": "sketchpad",
+  "networkId": 984123,
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.sketchpad-1.forma.art"],
+  "faucets": [],
+  "infoURL": "https://forma.art"
 }, {
   "name": "Ecrox Chain Mainnet",
   "chainId": 988207,
@@ -19069,6 +19160,19 @@
   "rpc": ["https://worlds-test.calderachain.xyz/http"],
   "faucets": [],
   "infoURL": "https://caldera.xyz/"
+}, {
+  "name": "NumBlock Chain",
+  "chainId": 5112023,
+  "shortName": "NUMB",
+  "networkId": 5112023,
+  "nativeCurrency": {
+    "name": "NUMB Token",
+    "symbol": "NUMB",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-mainnet.numblock.org"],
+  "faucets": [],
+  "infoURL": "https://numblock.org"
 }, {
   "name": "MXC Wannsee zkEVM Testnet",
   "chainId": 5167003,

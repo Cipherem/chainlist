@@ -4631,6 +4631,14 @@
     "format": "png"
   }]
 }, {
+  "name": "forma",
+  "icons": [{
+    "url": "ipfs://QmQkjcadjAEefa4HLG26pKFvCaNZeZ7wWNxMkCVarW9tiU",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  }]
+}, {
   "name": "titan_tkx",
   "icons": [{
     "url": "ipfs://bafkreicyvc7t55zsejv6vwaxbmhvea5vdfkkbgqkmn65rhyyifpg3mq3ua",
@@ -5060,6 +5068,14 @@
     "url": "ipfs://QmSXLXqyr2H6Ja5XrmznXbWTEvF2gFaL8RXNXgyLmDHjAF",
     "width": 896,
     "height": 690,
+    "format": "png"
+  }]
+}, {
+  "name": "NumBlock",
+  "icons": [{
+    "url": "ipfs://QmRY72AKDaUwxgPukdfSBj19NfMrmsSm48mdBe9zJcW3jB",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
