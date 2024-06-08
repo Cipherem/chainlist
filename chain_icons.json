@@ -1039,6 +1039,14 @@
     "format": "png"
   }]
 }, {
+  "name": "ham",
+  "icons": [{
+    "url": "ipfs://QmcbYVenTET9HBS7vs7SGv1MNqnRscAKVF5kaRVHaVCfvs",
+    "width": 500,
+    "height": 500,
+    "format": "jpg"
+  }]
+}, {
   "name": "nativ3",
   "icons": [{
     "url": "ipfs://QmVzJDndPui6qBSeJWe5kMLA56C3KpVhqqqk9xvVKE1DGb",
@@ -1388,6 +1396,14 @@
     "url": "ipfs://QmVgFqXA3kkCrVYGcWFF7Mhx8JUSe9vSCauNamuKWSvCym",
     "width": 1000,
     "height": 1000,
+    "format": "png"
+  }]
+}, {
+  "name": "lisk",
+  "icons": [{
+    "url": "ipfs://QmVTS8jmWD5e7jVEn86wLjJsuMnc6s8fym3JbtE4etzSKf",
+    "width": 400,
+    "height": 400,
     "format": "png"
   }]
 }, {
@@ -1812,6 +1828,14 @@
     "url": "ipfs://QmeMa6aw3ebUKJdGgbzDgcVtggzp7cQdfSrmzMYmnt5ywc",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "nal",
+  "icons": [{
+    "url": "ipfs://QmZLZHX18YUswejxo1JFNPx5EwMsVhUwBeBWEcd1JUHAK5",
+    "width": 640,
+    "height": 640,
     "format": "png"
   }]
 }, {
@@ -3591,6 +3615,14 @@
     "format": "png"
   }]
 }, {
+  "name": "glc",
+  "icons": [{
+    "url": "ipfs://QmTw21p6UfXVH2BCU81G2Ck28ecoknz4v9mC35fF8Z987i",
+    "width": 512,
+    "height": 557,
+    "format": "png"
+  }]
+}, {
   "name": "netxscan",
   "icons": [{
     "url": "ipfs://QmZWF4RcDtxuFRRGgMMuDV7FWCYR6kA9cAUTk12iADU52U",
@@ -4564,6 +4596,14 @@
     "url": "ipfs://QmcW64RgqQVHnNbVFyfaMNKt7dJvFqEbfEHZmeyeK8dpEa",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "zircuit",
+  "icons": [{
+    "url": "ipfs://QmV4nUUiRaTTZSyWubpF98ZL9jNCoXkrgg6AWR6FKqdxMk",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
